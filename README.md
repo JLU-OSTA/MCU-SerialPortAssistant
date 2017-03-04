@@ -1,7 +1,7 @@
 # OSTA MCU-Flasher 
 
 ## Description
-	A serial port assistant for MCU. Use it to flash the program!
+	A serial port assistant for MCU.
 
 
 ## Developer
